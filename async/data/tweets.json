@@ -1,0 +1,13 @@
+{
+	"tweets":[
+	   {
+		"content":"Hello"
+	   },
+	   {
+		"content":"Universal"
+	   },
+	   {
+	   	"content":"Being"
+	   }
+	]
+}
